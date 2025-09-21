@@ -1,8 +1,8 @@
 # **_BaresDev: Machine Learning Training_** - DIO
 
-## Desafio de Projeto: Criando um sistema de assistência virtual do zero
+## Desafio de Projeto: Criando Um Sistema de Assistência Virtual do Zero
 
-### 🧑🏻‍💻 Projeto de Criação de um Sistema de Recomendação por Imagens 
+### 🧑🏻‍💻 Projeto de Criação de Assistente Virtual do Zero 
 O projeto consiste em desenvolver um assistente virtual (voz e texto) para um sistema na rede neural de Deep Learning na linguagem Python no ambiente COLAB.
 
 O modelo segue o PLN (Processamento de Linguagem Natural) para chatboots com IA (Inteligância Artificial) tanto para voz quanto para texto com intensão de converter um no outro rebroduzido por uma máquina (um robô). Em síntese, aplicação de IA dentro da área de Robôtica.
